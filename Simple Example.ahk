@@ -20,7 +20,6 @@ F12::
   ds4.SendReport()
   xb360.SetButtonState(xb360A, true)
   xb360.SendReport()
-  
   return
 
 F12 up::
